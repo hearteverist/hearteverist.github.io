@@ -1,2 +1,3 @@
-http://example.com/2022/07/20/hello-world/
+http://example.com/post/a29056c.html
+http://example.com/post/4a17b156.html
 http://example.com/
